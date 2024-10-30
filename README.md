@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**texdade/texdade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Davide, I'm a software engineer working on development environments in Vinted</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Developing in Ruby and Go<br>⚙️ Using mise, rbenv, docker, colima and nix (and others) to solve the everlasting local environment isolation problem<br>🎲 Fun fact: I am building an painting my Tau w40k army, but whether I will use it one day is a though question</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/texdade/texdade/output/snake.svg" alt="Snake animation" />
+
+###
