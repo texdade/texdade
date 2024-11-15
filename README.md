@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Davide, I'm a software engineer working on development environments in Vinted</p>
+<p align="left">My name is Davide, I'm a software engineer working on development environments at Vinted</p>
 
 ###
 
