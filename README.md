@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing in Ruby and Go<br>⚙️ Using mise, rbenv, docker, colima and nix (and others) to solve the everlasting local environment isolation problem<br>🎲 Fun fact: I am building an painting my Tau w40k army, but whether I will use it one day is a though question</p>
+<p align="left">✨ Developing in Ruby and Go<br>⚙️ Using mise, rbenv, docker, colima and nix (and others) to solve the everlasting local environment isolation problem<br>🎲 Fun fact: I am building an painting my Tau w40k army, but whether I will use it one day is a tough question</p>
 
 ###
 
